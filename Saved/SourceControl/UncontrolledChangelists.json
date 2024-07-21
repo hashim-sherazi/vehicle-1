@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/Drive/vehicle1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/VehicleTemplate/Blueprints/Lightxyz.uasset",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/8L/3OGY0IUJG2FTLCPJ7XWWKH.uasset",
+				"C:/Users/maazh/Documents/Unreal Projects/vehicle1/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/FI/8YE39KU8EO7WCFAFZMIKAH.uasset"
+			]
+		}
+	]
+}
